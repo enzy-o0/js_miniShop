@@ -1,0 +1,82 @@
+{
+    "items" : [
+        {
+            "type" : "t", 
+            "gender" : "female", 
+            "size" :"large",
+            "color" : "pink",
+            "img" : "../imgs/pink_t.png"
+        }, 
+        {
+            "type" : "t", 
+            "gender" : "male", 
+            "size" :"large",
+            "color" : "yellow",
+            "img" : "../imgs/yellow_t.png"
+        }, 
+        {
+            "type" : "t", 
+            "gender" : "female", 
+            "size" :"large",
+            "color" : "blue",
+            "img" : "../imgs/blue_t.png"
+        }, 
+        {
+            "type" : "p", 
+            "gender" : "female", 
+            "size" :"large",
+            "color" : "blue",
+            "img" : "../imgs/blue_p.png"
+        }, 
+        {
+            "type" : "p", 
+            "gender" : "male", 
+            "size" :"small",
+            "color" : "blue",
+            "img" : "../imgs/blue_p.png"
+        }, 
+        {
+            "type" : "p", 
+            "gender" : "male", 
+            "size" :"large",
+            "color" : "yellow",
+            "img" : "../imgs/yellow_p.png"
+        }, 
+        {
+            "type" : "p", 
+            "gender" : "female", 
+            "size" :"small",
+            "color" : "pink",
+            "img" : "../imgs/pink_p.png"
+        }, 
+        {
+            "type" : "s", 
+            "gender" : "male", 
+            "size" :"large",
+            "color" : "yellow",
+            "img" : "../imgs/yellow_s.png"
+        }, 
+        {
+            "type" : "s", 
+            "gender" : "female", 
+            "size" :"small",
+            "color" : "blue",
+            "img" : "../imgs/blue_s.png"
+        }, 
+        {
+            "type" : "s", 
+            "gender" : "female", 
+            "size" :"large",
+            "color" : "pink",
+            "img" : "../imgs/pink_s.png"
+        }, 
+        {
+            "type" : "s", 
+            "gender" : "male", 
+            "size" :"large",
+            "color" : "pink",
+            "img" : "../imgs/pink_s.png"
+        }
+
+    ]
+}

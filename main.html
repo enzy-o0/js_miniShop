@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Clothes Shop</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="main.css">
+    <script defer src="main.js"></script>
+</head>
+<body>
+    <header class="header-logo">
+        <img class="logo_img" src="imgs/logo.png" alt="로고 아이콘">
+    </header>
+    <section class="section-item">
+        <div class="item-menu">
+            <button class="menu shirt">
+                <img class="img" src="imgs/blue_t.png" alt="티셔츠 아이콘" data-key="type" data-value="t">
+            </button>
+            <button class="menu pants">
+                <img class="img" src="imgs/blue_p.png" alt="바지 아이콘" data-key="type" data-value="p">
+            </button>
+            <button class="menu skirt">
+                <img class="img" src="imgs/blue_s.png" alt="치마 아이콘" data-key="type" data-value="s">
+            </button>
+            <button class="menu blue">
+                <span class="img" data-key="color" data-value="blue">Blue</span>
+            </button>
+            <button class="menu yellow">
+                <span class="img" data-key="color" data-value="yellow">Yellow</span>
+            </button>
+            <button class="menu pink">
+                <span class="img" data-key="color" data-value="pink">Pink</span>
+            </button>
+        </div>
+        <ul class="item-list"></ul>
+    </section>
+</body>
+</html>
