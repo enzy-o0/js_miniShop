@@ -7,7 +7,7 @@
 
 - html
 - css
-- javascript
+- Vanilla JS
 
 ## Screen
 
@@ -15,7 +15,7 @@
 
 - **left screen**: 첫 화면. 리스트의 모든 아이템이 나온 상태.
 - **right screen**: 노란 네모 박스 안의 아이콘 중 하나를 클릭했을 때, 필터링 된 상태. <br/>
- ex) 바지 아이콘 클릭 시 바지 아이템만 리스트에 필터링, pink 아이콘 클릭 시 pink color 아이템만 리스트에 필터링 
+  ex) 바지 아이콘 클릭 시 바지 아이템만 리스트에 필터링, pink 아이콘 클릭 시 pink color 아이템만 리스트에 필터링
 
 ## 참고 사이트
 

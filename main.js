@@ -33,9 +33,6 @@ function filterItem(event, items) {
     const key = target.dataset.key;
     const value = target.dataset.value;
 
-    console.log(event.target.dataset.key);
-    console.log(event.target.dataset.value);
-
     if (key == null || value == null) {
         return;
     }
