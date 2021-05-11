@@ -10,7 +10,7 @@
 - Vanilla JS
 
 ## Screen (Desktop)
-<img src="https://user-images.githubusercontent.com/83004037/117758758-8e0f4480-b25d-11eb-9091-7f63837ce859.png" width: "500">
+<img src="https://user-images.githubusercontent.com/83004037/117758758-8e0f4480-b25d-11eb-9091-7f63837ce859.png" width="500">
 
 ## Screen (Mobile)
 <img src="https://user-images.githubusercontent.com/83004037/117317060-230fe780-aec4-11eb-828a-e3e3f35e65dd.PNG"  width="700">
